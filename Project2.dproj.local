@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/06/01 11:21:32.000.625,=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/06/01 11:22:46.000.987,C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\ScrollMapEditor\MainForm.dfm</Transaction>
+    <Transaction>2025/06/01 11:22:46.000.987,C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\ScrollMapEditor\MainForm.pas</Transaction>
+    <Transaction>2025/06/01 11:22:58.000.167,C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\ScrollMapEditor\Project2.dproj</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
